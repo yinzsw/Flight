@@ -1,0 +1,8 @@
+server:
+  port: 70
+spring:
+  application:
+    name: flight-service
+  cloud:
+    nacos:
+      server-addr: 39.108.59.72:8848

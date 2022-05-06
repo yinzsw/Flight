@@ -1,0 +1,8 @@
+server:
+  port: 71
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      server-addr: 39.108.59.72:8848
